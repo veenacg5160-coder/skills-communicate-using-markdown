@@ -3,3 +3,7 @@
 ###### This is an `<h6>` header, which is the smallest
 
 step 1: add headers
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+step 2: add image
