@@ -12,3 +12,9 @@ step 2: add image
 var myVar = "Hello, world!";
 ```
 step 3: communicate using markdown
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+step 4
